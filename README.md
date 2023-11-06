@@ -1,1 +1,1 @@
-# Instructions to run the project
+# Getting Started with Create React App
